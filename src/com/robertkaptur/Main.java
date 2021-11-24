@@ -7,8 +7,8 @@ public class Main {
         System.out.println("Hello Git!");
         System.out.println("This is going to be my test app for establishing GIT in my IDE");
 
-        Cat twinky = new Cat("Twinky", 4);
-        twinky.meow();
+        Dog bailey = new Dog("Bailey", 5);
+        bailey.bark();
 
     }
 }
