@@ -13,5 +13,6 @@ public class Main {
         Dog rufus = new Dog("Rufus", 10);
         rufus.bark();
         rufus.whatsTheName();
+        rufus.whatsTheAge();
     }
 }
