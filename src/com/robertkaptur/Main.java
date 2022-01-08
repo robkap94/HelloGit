@@ -10,5 +10,7 @@ public class Main {
         Dog bailey = new Dog("Bailey", 5);
         bailey.bark();
 
+        Dog rufus = new Dog("Rufus", 10);
+        rufus.bark();
     }
 }
