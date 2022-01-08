@@ -15,5 +15,6 @@ public class Main {
         rufus.bark();
         rufus.whatsTheName();
         rufus.whatsTheAge();
+        rufus.likeToBark();
     }
 }
