@@ -1,6 +1,9 @@
 package com.robertkaptur;
 
 public class Dog extends Animal {
+
+    // This is Dog's class
+
     public Dog(String name, int age) {
         super(name, age);
     }
