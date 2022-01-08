@@ -2,6 +2,8 @@ package com.robertkaptur;
 
 public class Animal {
 
+    // This is just an Animal class
+
     private String name;
     private int age;
 
