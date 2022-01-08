@@ -1,6 +1,9 @@
 package com.robertkaptur;
 
 public class Dog extends Animal {
+
+    // This is Dog's class
+
     public Dog(String name, int age) {
         super(name, age);
     }
@@ -15,5 +18,10 @@ public class Dog extends Animal {
 
     public void whatsTheAge() {
         System.out.println("The age of the dog is " + getAge());
+    }
+
+    public void likeToBark() {
+        System.out.println(getName() + " really likes to bark!");
+        this.bark();
     }
 }
